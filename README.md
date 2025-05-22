@@ -1,5 +1,5 @@
-<h1 align="center" style="color: #EB9326">Pedro Blamires</h1>
-<p align="center">Estou cursando Ciência da Computação no PUC-GO</p>
+<h1 align="center" style="color: #EB9326">Bem-Vindo(a) ao Meu perfil</h1>
+<p align="center">Estou cursando Ciência da Computação no PUC-GO, procuro sempre aprender um pouco mais</p>
 
 <h2 align="center"> 🔌Conecte-se comigo / Connect with me </h2>
 
