@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B090A,55:660708,100:E5383B&height=220&section=header&text=Pedro%20Blamires%20Cordeiro&fontSize=50&fontColor=F5F3F4&fontAlignY=36&desc=se%20quebrou%2C%20provavelmente%20fui%20eu%20que%20achei&descSize=18&descAlignY=56&animation=fadeIn" width="100%" alt="banner" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B090A,55:660708,100:E5383B&height=220&section=header&text=Pedro%20Blamires%20Cordeiro&fontSize=50&fontColor=F5F3F4&fontAlignY=40&animation=fadeIn" width="100%" alt="banner" />
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=2800&pause=900&color=E5383B&center=true&vCenter=true&width=640&lines=Desenvolvedor+de+Software+%26+QA;Salesforce+%C2%B7+.NET+%C2%B7+SQL+Server;Integra%C3%A7%C3%A3o+de+Sistemas;Ci%C3%AAncia+da+Computa%C3%A7%C3%A3o+na+PUC+Goi%C3%A1s" alt="typing" />
 
@@ -29,25 +29,31 @@ Também curso **Ciência da Computação na PUC Goiás**, onde fui monitor de Al
 
 <img src="https://skillicons.dev/icons?i=cs,py,js,java,c,cpp&theme=dark" alt="Linguagens" />
 
-<img src="https://img.shields.io/badge/Apex-0B090A?style=for-the-badge&logo=salesforce&logoColor=E5383B" alt="Apex" />
+<p align="center">
+<img src="https://img.shields.io/badge/Apex-0B090A?style=for-the-badge" alt="Apex" />
+</p>
 
 #### Backend e dados
 
-<img src="https://skillicons.dev/icons?i=dotnet,fastapi,supabase&theme=dark" alt="Backend" />
+<img src="https://skillicons.dev/icons?i=dotnet,fastapi,supabase&theme=dark" alt="Backend e dados" />
 
-<img src="https://img.shields.io/badge/ASP.NET_MVC-0B090A?style=for-the-badge&logo=dotnet&logoColor=E5383B" alt="ASP.NET MVC" />
-<img src="https://img.shields.io/badge/Entity_Framework-0B090A?style=for-the-badge&logo=dotnet&logoColor=E5383B" alt="Entity Framework" />
-<img src="https://img.shields.io/badge/Dapper-0B090A?style=for-the-badge&logo=dotnet&logoColor=E5383B" alt="Dapper" />
-<img src="https://img.shields.io/badge/SQL_Server-0B090A?style=for-the-badge&logo=microsoftsqlserver&logoColor=E5383B" alt="SQL Server" />
-<img src="https://img.shields.io/badge/T--SQL-0B090A?style=for-the-badge&logo=microsoftsqlserver&logoColor=E5383B" alt="T-SQL" />
+<p align="center">
+<img src="https://img.shields.io/badge/ASP.NET_MVC-0B090A?style=for-the-badge" alt="ASP.NET MVC" />
+<img src="https://img.shields.io/badge/Entity_Framework-0B090A?style=for-the-badge" alt="Entity Framework" />
+<img src="https://img.shields.io/badge/Dapper-0B090A?style=for-the-badge" alt="Dapper" />
+<img src="https://img.shields.io/badge/SQL_Server-0B090A?style=for-the-badge" alt="SQL Server" />
+<img src="https://img.shields.io/badge/T--SQL-0B090A?style=for-the-badge" alt="T-SQL" />
+</p>
 
 #### Integrações e plataformas
 
-<img src="https://img.shields.io/badge/Salesforce-0B090A?style=for-the-badge&logo=salesforce&logoColor=E5383B" alt="Salesforce" />
-<img src="https://img.shields.io/badge/SOQL-0B090A?style=for-the-badge&logo=salesforce&logoColor=E5383B" alt="SOQL" />
+<p align="center">
+<img src="https://img.shields.io/badge/Salesforce-0B090A?style=for-the-badge" alt="Salesforce" />
+<img src="https://img.shields.io/badge/SOQL-0B090A?style=for-the-badge" alt="SOQL" />
 <img src="https://img.shields.io/badge/Skyvia_ETL-0B090A?style=for-the-badge" alt="Skyvia ETL" />
-<img src="https://img.shields.io/badge/Stripe-0B090A?style=for-the-badge&logo=stripe&logoColor=E5383B" alt="Stripe" />
-<img src="https://img.shields.io/badge/REST_API-0B090A?style=for-the-badge&logo=openapiinitiative&logoColor=E5383B" alt="REST API" />
+<img src="https://img.shields.io/badge/Stripe-0B090A?style=for-the-badge" alt="Stripe" />
+<img src="https://img.shields.io/badge/REST_API-0B090A?style=for-the-badge" alt="REST API" />
+</p>
 
 #### Front-end
 
@@ -57,8 +63,10 @@ Também curso **Ciência da Computação na PUC Goiás**, onde fui monitor de Al
 
 <img src="https://skillicons.dev/icons?i=git,visualstudio,latex&theme=dark" alt="Ferramentas" />
 
-<img src="https://img.shields.io/badge/Jira-0B090A?style=for-the-badge&logo=jira&logoColor=E5383B" alt="Jira" />
-<img src="https://img.shields.io/badge/Claude_Code-0B090A?style=for-the-badge&logo=anthropic&logoColor=E5383B" alt="Claude Code" />
+<p align="center">
+<img src="https://img.shields.io/badge/Jira-0B090A?style=for-the-badge" alt="Jira" />
+<img src="https://img.shields.io/badge/Claude_Code-0B090A?style=for-the-badge" alt="Claude Code" />
+</p>
 
 </div>
 
@@ -69,6 +77,7 @@ Também curso **Ciência da Computação na PUC Goiás**, onde fui monitor de Al
 <td width="32%" valign="top">
 
 ### [KeycapStore (E-Commerce)](https://github.com/ArrozbR/E-Commerce)
+<a href="https://keycapstore.duckdns.org/"><img src="https://img.shields.io/badge/site-keycapstore.duckdns.org-E5383B?style=flat-square&labelColor=0B090A" alt="Site" /></a>
 
 <img src="https://img.shields.io/badge/status-em_desenvolvimento-BA181B?style=flat-square&labelColor=0B090A" alt="status" />
 
