@@ -180,8 +180,8 @@ Jogo da forca **multiplayer cliente/servidor** com **servidor tolerante a falhas
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=ArrozbR&show_icons=true&count_private=true&bg_color=0B090A&title_color=E5383B&text_color=D3D3D3&icon_color=E5383B&border_color=660708" alt="GitHub Stats" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArrozbR&layout=compact&langs_count=6&bg_color=0B090A&title_color=E5383B&text_color=D3D3D3&border_color=660708" alt="Top Languages" />
+<img src="./metrics.stats.svg" alt="GitHub Stats" />
+<img src="./metrics.languages.svg" alt="Top Languages" />
 
 <br/><br/>
 
