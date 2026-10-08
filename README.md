@@ -193,10 +193,6 @@ Jogo da forca **multiplayer cliente/servidor** com **servidor tolerante a falhas
 
 <br/><br/>
 
-<img src="./metrics.achievements.svg" alt="Conquistas" />
-
-<br/><br/>
-
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ArrozbR/ArrozbR/output/snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ArrozbR/ArrozbR/output/snake-light.svg" />
